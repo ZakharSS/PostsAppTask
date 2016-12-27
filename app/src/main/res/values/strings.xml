@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PostsApp</string>
+    <string name="saveLogCat">Save logs</string>
+    <string name="no_connection">No internet connection!</string>
+    <string name="internet_connection">Internet connection established</string>
+    <string name="retry_action">Retry</string>
+    <string name="external_storage_error">Cannot get access to external storage</string>
+
+    <string name="credentials">Personal data:</string>
+    <string name="btnSaveToDB">Save User</string>
+
+</resources>
